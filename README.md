@@ -1,5 +1,6 @@
 # Interactive-Fiction-Game
 Haunted House
+
 *All the info you need to know for the game is on the menu when you run the game.
 
 Haunted House is a game inspired by the interactive fiction game on Playfic I loved creating, with my friends, when I was in grade 9.
