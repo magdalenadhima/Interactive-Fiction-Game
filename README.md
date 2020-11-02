@@ -2,6 +2,7 @@
 Haunted House
 
 *All the info you need to know for the game is on the menu when you run the game.*
+
   Main code is at the bottom after you scroll past the many dimensional arrays.
   The arrays are used as database for the game content.
 
