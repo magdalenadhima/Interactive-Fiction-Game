@@ -1,5 +1,4 @@
-# Interactive-Fiction-Game
-Haunted House
+# Interactive-Fiction-Game: Haunted House
 
 ***All the info you need to know for the game is on the menu when you run the game.***
 
